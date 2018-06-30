@@ -2,8 +2,7 @@
 
 # dependencies
 /node_modules
-/config
-/scripts
+
 
 # testing
 /coverage
